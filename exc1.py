@@ -1,5 +1,3 @@
-# **oblicz prawdopodobieństwo wystąpienia liczby podzielnej przez określoną liczbę z danego zbioru**
-
 w = True
 a = True
 while w:
